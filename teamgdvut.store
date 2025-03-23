@@ -189,7 +189,7 @@ getgenv().ConfigsKaitun = {
 loadstring(game:HttpGet("https://api.realaya.xyz/v1/files/l/73mkp0aqyfo4ypy8hvl0nz10lq49fey5.lua"))()
 
 task.spawn(function()
-    local message = "Mua acc giá rẻ chất lượng tại Teamgdvut . s t o r e"
+    local message = "Ai giống tui mới mua acc trên Teamgdvut . sto re khum 😍"
     local delayTime = 15
     while true do
         game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
